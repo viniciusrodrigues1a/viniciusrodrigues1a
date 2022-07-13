@@ -1,7 +1,7 @@
 # :wave: Oii, meu nome é Vinícius Rodrigues. Sou <bold>desenvolvedor de software</bold>!
 
 <center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrodrigues1a" alt="Linguages mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrodrigues1a&theme=dracula&layout=compact" alt="Linguages mais utilizadas" />
 </center>
 
 <div style="display: inline-block;">
