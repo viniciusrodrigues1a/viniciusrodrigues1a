@@ -1,8 +1,6 @@
 # :wave: Oii, meu nome é Vinícius Rodrigues.
 <p>Sou <bold>desenvolvedor de software</bold>!</p>
 
-<br />
-
 ## :computer: Linguages e ferramentas
 
 <center>
