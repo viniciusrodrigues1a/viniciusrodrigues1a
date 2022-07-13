@@ -17,6 +17,11 @@
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="Go" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+  <img align="center" alt="Docker" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img align="center" alt="Bash" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+  <img align="center" alt="PostgreSQL" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="MongoDB" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="Jest" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
 </div>
 
 #
