@@ -16,7 +16,7 @@
   <img alt="Go" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
 </div>
 
-<hr />
+#
 
 <div>
   <a href="mailto:viniciusrodrigues.aro@gmail.com" target="_blank">
