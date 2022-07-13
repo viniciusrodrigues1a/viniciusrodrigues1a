@@ -1,5 +1,5 @@
 # :wave: Oii, meu nome é Vinícius Rodrigues.
-<p>Sou <bold>desenvolvedor de software</bold>!</p
+<p>:computer: Sou <bold>desenvolvedor de software</bold>!</p>
 
 <center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrodrigues1a&theme=dracula&layout=compact&langs_count=4" alt="Linguages mais utilizadas" />
