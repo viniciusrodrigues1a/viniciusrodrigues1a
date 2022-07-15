@@ -4,7 +4,7 @@
 ## :computer: Linguages e ferramentas
 
 <center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrodrigues1a&theme=dracula&layout=compact&langs_count=4" alt="Linguages mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrodrigues1a&theme=dracula&layout=compact&langs_count=6" alt="Linguages mais utilizadas" />
 </center>
 
 <div style="display: inline-block;">
