@@ -1,7 +1,7 @@
 # :wave: Oii, meu nome é Vinícius Rodrigues.
 <p>Sou <bold>desenvolvedor de software</bold>!</p>
 
-## :computer: Linguages e ferramentas
+## :computer: Linguagens e ferramentas
 
 <center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrodrigues1a&theme=dracula&layout=compact&langs_count=6" alt="Linguages mais utilizadas" />
