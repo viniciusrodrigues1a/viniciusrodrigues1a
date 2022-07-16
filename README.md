@@ -15,8 +15,6 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="Go" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
   <img align="center" alt="Docker" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   <img align="center" alt="Linux" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   <img align="center" alt="Bash" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
